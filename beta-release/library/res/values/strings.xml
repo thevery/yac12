@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--unused because overridden in both beta and release -->
+    <string name="app_name">YAC12 Demo1 library</string>
+</resources>
